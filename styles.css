@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Iceland');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=Modak');
+body {
+    background-size:100%;
+    background-image:url("https://images.immediate.co.uk/volatile/sites/3/2018/04/https-2F2Fblogs-images.forbes.com2Fscottmendelson2Ffiles2F20182F042Fimage001-cebe539.jpg?quality=90&crop=75px,0px,811px,540px&resize=620,413");
+}
+button {
+    background-color:gold;
+    color:blue;
+}
+h1 {
+    text-align:center;
+    color:purple;
+    font-family: 'Cinzel', serif;
+}
+h2 {
+    text-align:center;
+    color:red;
+    font-family: 'Press Start 2P', cursive;
+}
+input {
+    font-family: 'Iceland', cursive;
+    color:red;
+    font-size:15px;
+    padding:5px 5px 5px 5px;
+}
+.sx {
+    width:400px;
+    height:300px;
+    opacity:0.8;
+}
+.hg {
+    width:450px;
+    height:300px;
+    opacity:0.8;
+}
+.kj {
+    width:450px;
+    height:300px;
+    opacity:0.8;
+}
+.ds {
+    width:450px;
+    height:300px;
+    opacity:0.8;
+}
+img {
+    display:none;
+}
+img:hover{
+    border:blue dotted 5px;
+    opacity:1;
+}
+img:active{
+    border:red double 5px;
+}
+    
+p {
+    color:cyan;
+    font-family: 'Modak', cursive;
+}
